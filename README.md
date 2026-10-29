@@ -8,35 +8,22 @@
 
 <br/>
 
-<a href="https://elbrux.com"><img src="assets/pronto.svg" alt="elbrux.com · Próximamente"/></a>
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=Elbruxsys&label=Visitas&color=1e4a7a&style=for-the-badge" alt="Visitas"/>
 <a href="https://github.com/Elbruxsys?tab=followers"><img src="https://img.shields.io/github/followers/Elbruxsys?label=Seguidores&style=for-the-badge&logo=github&color=1E4A7A" alt="Seguidores"/></a>
 
+<a href="https://elbrux.com"><img src="https://img.shields.io/badge/Web-elbrux.com-1E4A7A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="elbrux.com"/></a>
 <a href="https://demosweb.elbrux.com"><img src="https://img.shields.io/badge/Demos_web-demosweb.elbrux.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=4A90D9" alt="Demos web"/></a>
 <a href="https://wa.me/595987245103"><img src="https://img.shields.io/badge/WhatsApp-0987_245_103-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="mailto:elbruxsys@gmail.com"><img src="https://img.shields.io/badge/Email-elbruxsys@gmail.com-1E4A7A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="assets/separador.svg" width="100%" alt=""/>
-
 </div>
+
+---
 
 ## 🚀 Qué hacemos
 
 <div align="center">
-
-<a href="https://demosweb.elbrux.com"><img src="assets/web.svg" alt="Páginas web y landings"/></a>
-<img src="assets/ecommerce.svg" alt="E-commerce"/>
-<img src="assets/erp.svg" alt="ERP y gestión"/>
-<img src="assets/medida.svg" alt="Sistemas a medida"/>
-<img src="assets/facturacion.svg" alt="API de facturación SIFEN"/>
-
-<br/><br/>
-
-<img src="assets/terminal.svg" width="100%" alt="elbrux --servicios"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=3FB950&background=0D111700&vCenter=true&multiline=true&repeat=true&width=620&height=190&lines=%24+elbrux+--servicios;%E2%9C%94+P%C3%A1ginas+web+y+landings;%E2%9C%94+E-commerce;%E2%9C%94+ERP+y+sistemas+de+gesti%C3%B3n;%E2%9C%94+Sistemas+a+medida;%E2%9C%94+API+de+facturaci%C3%B3n+electr%C3%B3nica+(SIFEN)" alt="$ elbrux --servicios"/>
 </div>
 
 | | |
@@ -47,7 +34,7 @@
 | 🧩 **Sistemas a medida** | Si tu proceso no entra en un sistema genérico, lo desarrollamos para tu empresa, desde el relevamiento hasta la capacitación. |
 | 🧾 **API de facturación electrónica** | Integración con SIFEN (Paraguay) para emitir y gestionar documentos electrónicos desde tus sistemas. |
 
-<div align="center"><img src="assets/separador.svg" width="100%" alt=""/></div>
+---
 
 ## 🛠️ Tecnologías
 
@@ -67,7 +54,7 @@
 
 </div>
 
-<div align="center"><img src="assets/separador.svg" width="100%" alt=""/></div>
+---
 
 ## 💼 Cómo trabajamos
 
@@ -81,7 +68,7 @@
 
 <div align="center">
 
-<sub>📍 Alto Paraná, Paraguay · La mayoría de nuestros repositorios son privados.</sub>
+<sub>📍 Alto Paraná, Paraguay</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,50:1E4A7A,100:0D1117&height=120&section=footer" width="100%" alt=""/>
 
